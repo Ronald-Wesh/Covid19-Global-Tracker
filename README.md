@@ -17,7 +17,7 @@ This project is a data analysis and visualization notebook tracking global COVID
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/covid-19-global-tracker.git
-   ## 📊 Key Insights
+   ##  Key Insights
 - The United States had the highest cumulative cases.
 - India experienced a large wave mid-2021.
 - Kenya had slower vaccination rollout but steady progress.
